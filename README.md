@@ -47,7 +47,7 @@ You can download the current pre-trained model from [my dropbox](https://www.dro
 
 # Dependancy
 - scipy, librosa, num2words, matplotlib
-- PyTorch == 1.8.0
+- PyTorch == 1.8.1
 - CUDA 10.2
 
 # Relative
