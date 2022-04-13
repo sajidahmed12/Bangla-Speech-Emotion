@@ -41,11 +41,11 @@ python3 main.py --action synthesis
 ![](synthesis/atten_5.png)
 
 # Pre-trained model
-The samples in directory `synthesis` is sampled with 410k batches trained Text2Mel and 190k batches trained SuperRes.
+The samples in directory `synthesis` is sampled with 20k batches trained Text2Mel and 19k batches trained SuperRes.
 
 The current result is not very satisfying, specificly, some vowels are skipped. Hope someone can find better hyper parameters and train better models. Please tell me if you were able to get a great model.
 
-You can download the current pre-trained model from [my dropbox](https://www.dropbox.com/s/d7r3ol3n1lwvtns/logdir.7z?dl=0).
+You can download the current pre-trained model from [our Gdrive](https://drive.google.com/drive/u/1/folders/1cO2kZsw_JJd-5AQbqZRUUgMGze1E58mY).
 
 # Dependancy
 - scipy, librosa, num2words, matplotlib
