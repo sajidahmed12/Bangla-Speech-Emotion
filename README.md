@@ -53,4 +53,4 @@ You can download the current pre-trained model from [my dropbox](https://www.dro
 # Relative
 TensorFlow implementation: [Kyubyong/dc_tts](https://github.com/Kyubyong/dc_tts)
 
-Please [email](sajid.ahmed1@northsouth.edu) or [email](arifuzzaman.arman@northsouth.edu) me or open an issue, if you have any question or suggestion.
+Please [email Sajid Ahmed](sajid.ahmed1@northsouth.edu) or [Arifuzzaman Arman](arifuzzaman.arman@northsouth.edu) me or open an issue, if you have any question or suggestion.
