@@ -3,7 +3,7 @@ This is a repository for our Bangla Text to speech NLP work
 
 The pytorch implementation of papar [Efficiently Trainable Text-to-Speech System Based on Deep Convolutional Networks with Guided Attention](https://arxiv.org/abs/1710.08969).
 
-This is out Short Notes pn the paper and the Code and works(Continued.....)[Bangla TTS with Guided Attention[ Notes](https://www.notion.so/Bangla-TTS-with-Guided-Attention-Notes-d6dcbf1925d14852886f12176767054a)
+This is out Short Notes pn the paper and the Code and works(Continued.....) [Bangla TTS with Guided Attention Notes](https://www.notion.so/Bangla-TTS-with-Guided-Attention-Notes-d6dcbf1925d14852886f12176767054a)
 
 # Dataset
 - [The LJ Speech Dataset](https://keithito.com/LJ-Speech-Dataset/). A public domain speech dataset consisting of 13,100 short audio clips of a single female speaker.
