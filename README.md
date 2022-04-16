@@ -51,6 +51,7 @@ You can download the current pre-trained model from [our Gdrive](https://drive.g
 - scipy, librosa, num2words, matplotlib
 - PyTorch == 1.8.1
 - CUDA 10.2
+- numpy
 
 # Relative
 TensorFlow implementation: [Kyubyong/dc_tts](https://github.com/Kyubyong/dc_tts)
